@@ -1,0 +1,10 @@
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\bin\Debug\PersonelTakipProgrami.exe.config
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\bin\Debug\PersonelTakipProgrami.exe
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\bin\Debug\PersonelTakipProgrami.pdb
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.Form1.resources
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.Properties.Resources.resources
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.csproj.GenerateResource.cache
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.exe
+C:\Users\feoce\source\repos\PersonelTakipProgrami\PersonelTakipProgrami\obj\Debug\PersonelTakipProgrami.pdb
